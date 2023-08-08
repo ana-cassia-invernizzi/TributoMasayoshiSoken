@@ -35,6 +35,7 @@ html {
 .featured-image {
     text-align: center;
     margin-top: 30px;
+    position: relative;
 }
 
 /* Biografia */
@@ -78,4 +79,5 @@ html {
 .img-bold {
     font-weight: bold;
     text-align: center;
+    position: relative;
 }
